@@ -38,16 +38,13 @@ pyshutdown.py [-h] [-l]
 -l Enable logging archive in /var/tmp/
 
 ## Language support
-Pyshutdown detects the current user's language at shows de appropiate strings. At this moment only english, spanish and german are supported.
+Pyshutdown detects the current user's language and the appropiate strings are showed. At this moment only english, spanish and german are supported.
 
-English (default)
-![Screenshot English](https://user-images.githubusercontent.com/18613131/44646485-67d8e600-a9db-11e8-971a-a7f04531310d.png)
-
-German
-![Screenshot German](https://user-images.githubusercontent.com/18613131/44646484-67404f80-a9db-11e8-9def-c52bdbcc49c1.png)
-
-Spanish
-![Screenshot Spanish](https://user-images.githubusercontent.com/18613131/44646487-67d8e600-a9db-11e8-80a0-bfc11cc648e8.png)
+| Language| User Interface |
+| ------ | ------ |
+|English (default)|![Screenshot English](https://user-images.githubusercontent.com/18613131/44646485-67d8e600-a9db-11e8-971a-a7f04531310d.png)|
+|German|![Screenshot German](https://user-images.githubusercontent.com/18613131/44646484-67404f80-a9db-11e8-9def-c52bdbcc49c1.png)|
+|Spanish|![Screenshot Spanish](https://user-images.githubusercontent.com/18613131/44646487-67d8e600-a9db-11e8-80a0-bfc11cc648e8.png)|
 
 ## Images credits
 Images from [Mazenl77](http://www.iconarchive.com/artist/mazenl77.html)
