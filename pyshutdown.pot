@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-08-25 21:14+CEST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: pyshutdown.py:35
+msgid "Shutdown"
+msgstr ""
+
+#: pyshutdown.py:36
+msgid "Restart"
+msgstr ""
+
+#: pyshutdown.py:37
+msgid "Continue"
+msgstr ""
+
+#: pyshutdown.py:116
+msgid "Shutdown in {}"
+msgstr ""
+
+#: pyshutdown.py:119
+msgid "Shutting down..."
+msgstr ""
+
